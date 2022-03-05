@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoss</h1>
 <h3 align="center">A Programmer.</h3>
 
-<img src="https://i.pinimg.com/originals/b2/27/b0/b227b0d7a517a0a6a33e460122ea6acd.gif" width="360" height="300" text-align: center;/>
+<img src="https://i.pinimg.com/originals/b2/27/b0/b227b0d7a517a0a6a33e460122ea6acd.gif" width="360" height="300" text-align: center/>
 
 - 🔭 I’m currently working on [Game Bot](https://github.com/Htyior/-Music_game-_BOT)
 
