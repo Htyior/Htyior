@@ -2,8 +2,8 @@
 <h3 align="center">A Programmer.</h3>
 
 <img src="https://i.pinimg.com/originals/b2/27/b0/b227b0d7a517a0a6a33e460122ea6acd.gif" width="360" height="300" class="center"/>
-<img src="https://camo.githubusercontent.com/c9053c69a52b8ca9390be7dbd471b2f6188acb7a7da5e0f2dd639eb7d773085d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34612f66662f61302f34616666613066316639646134313430393836396637646135376530663838632e676966" width="360" height="300" class="center"/>
-
+<img 
+     
 - 🔭 I’m currently working on [Game Bot](https://github.com/Htyior/-Music_game-_BOT)
 
 - 🌱 I’m currently learning **Python**
