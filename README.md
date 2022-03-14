@@ -6,7 +6,7 @@
   
 🔭 I’m currently working on [Game Bot](https://github.com/Htyior/-Music_game-_BOT)
 
-🌱 I’m currently learning **Python**
+🌱 I’m currently learning **React**
 
 ⚡ Fun fact **I love chess**
 
