@@ -6,9 +6,9 @@
   
 🔭 I’m currently working on [Game Bot](https://github.com/Htyior/Game_bot)
 
-🌱 I’m currently learning **React**
+🌱 I’m currently learning **My Self**
 
-⚡ Fun fact **I love chess**
+⚡ Fun fact about me **I love to Travel**
 
   
   
